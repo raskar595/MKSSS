@@ -1,1 +1,1 @@
-Hello this is Suraj Raskar this is an my First java Session on K.B.Joshi College.
+Hello this is Suraj Raskar, this is an my First java Session on K.B.Joshi College for Java Training.
